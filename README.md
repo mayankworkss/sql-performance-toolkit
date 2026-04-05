@@ -1,2 +1,2 @@
 # sql-performance-toolkit
-Scipts reg db perf tuning
+A collection of SQL Server and PostgreSQL performance tuning scripts, queries, and guides.
